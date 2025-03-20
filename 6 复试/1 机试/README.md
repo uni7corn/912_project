@@ -180,6 +180,8 @@
 > [AcWing清华近年机试题库](https://www.acwing.com/problem/search/1/?csrfmiddlewaretoken=UZ0RkRdayFYeSpH3WVUTz1gKiUVY2QydpJWP1u2OHs7zXr9TELRuA3j1ObGSscKt&search_content=%E6%B8%85%E5%8D%8E)
 >
 > 微信小程序"水木清研" 机试训练营部分 (链接 : #小程序://清研/ZQ5kS4vGgNLZsCv )
+>
+> [清华推研机试 - 往届题目复刻题单](https://www.luogu.com.cn/training/711612) （由水木清研 - 机试训练营转型）
 
 每年真题的风格不尽相同。但是**每道题一般会存在多个考点**。
 
